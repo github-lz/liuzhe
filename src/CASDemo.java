@@ -15,7 +15,6 @@ public class CASDemo {
 
 //        System.out.println(atomicReference.compareAndSet("A", "B")+"\t"+atomicReference.get());
 //        System.out.println(atomicReference.compareAndSet("B", "A")+"\t"+atomicReference.get());
-
 //        new Thread(()->{
 //            try {
 //                TimeUnit.SECONDS.sleep(1);
